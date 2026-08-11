@@ -27,3 +27,7 @@ Grade: B
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Kenapa urutan kondisi if-else kamu susun seperti itu? Apa yang terjadi kalau urutannya dibalik?
+
+// Saya buat variabel untuk simpan nilai ujian siswa, habis itu menggunakan if dan else if untuk saya nentuin status kelulusan dan grade nya.
+// IF disusun dari nilai yang paling tinggi dulu ya, baru menurun ke nilai yang paling rendahbiar setiap nilainya bisa masuk ke perkondisian yang benar.
+// Kalo urutannya dibalik ya otomatis kondisi yang rendah terpenuhi duluan. jadinya grade nya gak sesuai.
