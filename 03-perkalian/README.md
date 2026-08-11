@@ -21,3 +21,7 @@ Melatih perulangan dan memahami *kapan* perulangan dibutuhkan.
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Kenapa tugas ini lebih tepat pakai perulangan, bukan menulis 10 baris console.log satu per satu?
+
+// Saya buat variabel yang berisikan satu angka saja kemudian saya menggunakan FOR untuk nulis hitung perkalian dari 1 sampai 10
+// Memakai FOR soalnya jumlah perulangannya udah diketahui
+// Perulangan itu lebih rapi dan cepat ketimbang saya menuliskan console.log satu persatu
