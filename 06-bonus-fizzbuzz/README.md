@@ -29,3 +29,7 @@ FizzBuzz
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Kenapa kondisi "FizzBuzz" harus dicek paling awal? Apa yang terjadi kalau tidak?
+
+// Saya menggunakan perulangan untuk menampilkan angka dari 1 sampai 100 dan juga pengkondisian nya untuk saya menentukan outputnya.
+// Kondisi fizzbuzz harus di cek paling awal soalnya angka kelipatan 3 dan 5 harus menampilkan output "fizzbuzz".
+// kalau kondisi dari fizz dan buzz di cek duluan, nanti angka tersebut bisa langsung dapat salah satu dari "fizz" atau gak "buzz"
