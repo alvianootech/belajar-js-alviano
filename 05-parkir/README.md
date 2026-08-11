@@ -36,3 +36,6 @@ Tandai kendaraan yang kena tarif maksimal, contoh: `Kendaraan 2 (5 jam): Rp10000
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menghitung tarif di dalam fungsi? Kenapa jam pertama perlu diperlakukan berbeda di dalam perulangan?
 > - Apa yang terjadi pada pendapatan parkir kalau aturan tarif maksimal dihapus?
+
+// Saya menghitung tarif di dalam fungsi dengan menggunakan perulangan untuk menghitung biaya parkir setiap jam, tapi jam pertamanya memiliki tarif parkir yang berbeda dengan jam setelahnya.
+// setelah itu saya memakai perkondisian untuk membuat batas tarif yang maksimalnya adalah 10ribu, dan kalau tarif maksimalnya dihapus maka kendaraan yang parkir lama banget akan membayar lebih mahal
