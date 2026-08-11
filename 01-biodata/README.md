@@ -19,3 +19,7 @@ Hobi saya: futsal dan ngoding.
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Kenapa kamu memilih `const` untuk data tertentu dan `let` untuk data lainnya?
+
+// Saya buat variabel untuk nama, umur, asal sekolah saya, dan hobi saya
+// lalu saya menggunakan variabel const untuk yang nilainya gak perlu diubah-ubah dan let untuk nilai yang bisa berubah
+// kemudian saya menampilkan variabel-variabel tersebut memakai console.log
